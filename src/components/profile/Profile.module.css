@@ -1,3 +1,6 @@
+.profile {
+  padding: 20px;
+}
 .description {
   display: flex;
   flex-direction: column;
