@@ -2,7 +2,6 @@ import css from './TransactionHistory.module.css';
 import PropTypes from "prop-types";
 import clsx from "clsx";
 
-console.log(Math)
 export const TransactionHistory = ({items}) => {
     return (<table className={css["transaction-history"]}>
         <thead className={css.thead}>
